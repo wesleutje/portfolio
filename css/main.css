@@ -581,12 +581,21 @@ body {
 }
 
 .background-image-01 {
-    background: transparent url('../img/background-image-01.jpg') center 0 no-repeat fixed;
+    background: transparent url('../img/skyline.jpg') center 0 no-repeat fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover
 }
+
+.background-image-02 {
+    background: transparent url('../img/underwater.jpg') center 0 no-repeat fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover
+}
+
 
 @media (max-device-width: 1024px) {
     .background-image-01 {
@@ -603,7 +612,7 @@ body {
 }
 
 .welcome h1 {
-    font-family: 'Varela Round', sans-serif;
+    font-family: 'Catamaran', sans-serif;
     font-size: 70px;
     letter-spacing: 10px;
     text-transform: uppercase
@@ -1159,7 +1168,7 @@ p {
 }
 
 .text-brand-main-color {
-    color: #29dcb2
+    color: #29dcb2;
 }
 
 .ir {
