@@ -567,7 +567,7 @@ body {
 }
 
 .hero-image {
-    background: transparent url('../img/road.jpg') center 0 no-repeat fixed;
+    background: transparent url('../img/hero-image.jpg') center 0 no-repeat fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -589,7 +589,7 @@ body {
 }
 
 .background-image-02 {
-    background: transparent url('../img/underwater.jpg') center 0 no-repeat fixed;
+    background: transparent url('../img/road.jpg') center 0 no-repeat fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
