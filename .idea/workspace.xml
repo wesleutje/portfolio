@@ -1,15 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="225684e9-1b5f-4c50-99dd-600d40cd8dae" name="Default" comment="14jan">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/background-image-01.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/hero-image.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/tmapctrl.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/tmapctrl4.png" afterPath="" />
+    <list default="true" id="225684e9-1b5f-4c50-99dd-600d40cd8dae" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Portfolio.html" afterPath="$PROJECT_DIR$/Portfolio.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/main.css" afterPath="$PROJECT_DIR$/css/main.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/main.js" afterPath="$PROJECT_DIR$/js/main.js" />
     </list>
     <ignored path="Portfolio.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -699,6 +692,13 @@
       <option name="number" value="Default" />
       <updated>1452612238714</updated>
     </task>
+    <task id="LOCAL-00001" summary="14jan">
+      <created>1452779499048</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1452779499048</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
