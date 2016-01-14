@@ -256,6 +256,11 @@ textarea {
     padding-left: 100px !important
 }
 
+.margin-auto {
+    margin-left: auto !important;
+    margin-right: auto !important;
+}
+
 .margin-top-0 {
     margin-top: 0 !important
 }
@@ -567,7 +572,7 @@ body {
 }
 
 .hero-image {
-    background: transparent url('../img/hero-image.jpg') center 0 no-repeat fixed;
+    background: transparent url('../img/mountains.jpg') center 0 no-repeat fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -581,7 +586,7 @@ body {
 }
 
 .background-image-01 {
-    background: transparent url('../img/skyline.jpg') center 0 no-repeat fixed;
+    background: transparent url('../img/forest.jpg') center 0 no-repeat fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -589,7 +594,7 @@ body {
 }
 
 .background-image-02 {
-    background: transparent url('../img/road.jpg') center 0 no-repeat fixed;
+    background: transparent url('../img/night.jpg') center 0 no-repeat fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
